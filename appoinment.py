@@ -1,7 +1,6 @@
 import sqlite3
 from tkinter import *
 import tkinter.messagebox
-from update import *
 
 #connect to the database
 conn = sqlite3.connect('database.db')
